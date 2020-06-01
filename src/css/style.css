@@ -1,0 +1,23 @@
+#mallPage {
+  width: 100%;
+}
+
+#mallPage #site_nav {
+  height: 32px;
+  background-color: #ccc;
+}
+
+#mallPage #header {
+  height: 130px;
+}
+
+#mallPage #content .main_nav {
+  height: 35.5px;
+  background-color: #ff9;
+}
+#mallPage #content .j_category {
+  height: 500px;
+  background: #99f;
+}
+
+/*# sourceMappingURL=style.css.map */
